@@ -54,6 +54,12 @@ Here's what you want. In order of value earned.
 - Details [here](https://help.coinbase.com/en/coinbase/other-topics/other/the-coinbase-referral-program)
 - BONUS: Earn small amounts in their [Learn & Earn section](https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/coinbase-earn-faq-and-terms)
 
+## Other Bonuses ##
+
+### Audius.co ###
+- Earn $AUDIO by using the platform https://audius.co/signup?ref=aftertherevolt
+
+
 ## Notes ##
 - There are more exchanges that will come. These are the ones I have done so far.
 - This will not make you rich, but it'll give you some feel good buffer with those inevitable transaction fee bloopers.

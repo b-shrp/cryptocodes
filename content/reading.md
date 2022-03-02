@@ -32,6 +32,7 @@ Things I think we should think about and maybe aren't so clear yet.
 - https://decrypt.co/93567/colorado-governor-crypto-polis-president
 - https://cardano.ideascale.com/
 - https://www.wired.com/story/colorado-jared-polis-blockchain/
+- https://cointelegraph.com/news/us-lawmakers-and-fed-chair-push-for-crypto-regulation-in-wake-of-russia-sanctions
 
 ### Global Shifts ###
 - https://www.wired.com/story/crypto-remittances-cuba/
@@ -39,8 +40,11 @@ Things I think we should think about and maybe aren't so clear yet.
 - https://beincrypto.com/nigeria-young-people-ditch-the-naira-for-crypto-thanks-to-inflation/
 - https://iohk.io/en/blog/posts/2021/11/25/welcome-to-the-age-of-realfi/
 
-### Repression and Resistance ###
+### War, Repression and Resistance ###
 - https://decrypt.co/93898/ukraine-bitcoin-war
+- https://twitter.com/Ukraine/status/1497594592438497282
+- https://www.coindesk.com/layer2/2022/03/02/bitcoiners-were-right-weaponized-finance-just-created-a-post-dollar-planet/
+- https://blockworks.co/ukraine-government-prepares-first-of-its-kind-airdrop-to-crypto-donors/
 
 ### Space Utopias, Burning Man & Trickle down Justice ###
 - https://ftxfuturefund.org/area-of-interest/
