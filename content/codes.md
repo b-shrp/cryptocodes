@@ -6,10 +6,12 @@ aliases = ["referrals", "codes", "rewards"]
 author = "CryptoCodes"
 +++
 # Gimme that Free Free Cash Money #
-Referral codes reward you and your friends for pushing them to sign up with an exchange. Promos come and go. It kinda sucks to engage them in what feels like an MLM scheme even though EVERYYBODY WINS@!@! :|  I've got you for now. Send your friends here to show them why they should use your referral code instead.
+Referral codes reward you and your friends for pushing them to sign up with an exchange. Promos come and go. It kinda sucks to engage them in what feels like an MLM scheme even though EVERYYBODY WINS@!@! :|  I've got your back. Then send your friends here to show them why they should use your referral code instead.
 
 ## The Links ##
-Here's what you want. In order of value earned.
+Here's what you want. In order of value earned.   
+**Total Earned: $142.68**  
+**Total Invest: $626.78**
 
 ### Coinberry.com ###
 - https://app.coinberry.com/invite/f60db6d7677
@@ -53,7 +55,8 @@ Here's what you want. In order of value earned.
 - BONUS: Earn small amounts in their [Learn & Earn section](https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/coinbase-earn-faq-and-terms)
 
 ## Notes ##
-- There are more that will come. These are the ones I have done so far.
-- In general these rewards give you enough to cover any dips in value if you buy high, and cover some transaction costs.
-- I'm discerning, but all these seem legit enough for the low level of research investment I'm making. Since you are here I assume you are like me and not dumping big loads of cash in. If not, please do the research that matches your strategy.
+- There are more exchanges that will come. These are the ones I have done so far.
+- This will not make you rich, but it'll give you some feel good buffer with those inevitable transaction fee bloopers.
+- You need to be OK with giving your details including photo ID and some KYC financial data. I don't think there is much way around this anymore unless you are getting crypto through other means.
+- I'm discerning and though none of these feel super sketch, know that I evaluate for a risk level that is small potatoes. That's like you, or I assume you wouldn't be looking at getting that $15 bonus!
 - Get a non-custodial wallet once you plan to just hold.

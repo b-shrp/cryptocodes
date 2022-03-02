@@ -5,7 +5,7 @@ theme = "gruvhugo"
 paginate = "10" # Number of posts per page
 
 #disqusShortname = "" # Enable comments by entering your Disqus shortname
-#googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "G-JB4JXSKDG9" # Enable Google Analytics by entering your tracking id
 #-------------------------------------------------------------------------------
 # DEFAULT SETTINGS
 #-------------------------------------------------------------------------------
@@ -31,10 +31,10 @@ metaDataFormat= "yaml"
   copyright = "© <- This is definitely not copyrighted. Re-use & multiply!"
   name = "CryptoCodes.ca"
   img = "img/trees.jpeg"
-  img_title = "Trees may love crypto. But you have to talk to them and hear their stories first."
+  img_title = "Trees may love crypto. But you have to talk to them and hear their stories first to find out."
   icon = "img/logo.png"
   quote = "I prefer trees over crypto. But crypto is here. Here are your codes."
-  description= "I'm in Ontario, Canada. I do tech. I care about security and good in the world. I'm reluctantly learning crypto by doing crypto. I did some research, picked some decent exchanges and got some cash money. So here are the legit, \"secure\" exchanges I signed up for and the best reward freebies for the least investment. I'll keep this up to date, but if I get waay too busy looking at trees and they go stale, they can be found easily enough on the internetz. I promise to do only good with the millions I make from your good fortune. "
+  description= "I'm in Ontario, Canada. I do tech. I care about security and good in the world. I'm reluctantly learning crypto by doing crypto. I did some research, picked some decent exchanges and got some cash money. So here are the legit, \"secure\" exchanges I signed up for and the best reward freebies for the least investment. I'll keep this up to date, but if I get waay too busy looking at trees and they go stale, new ones can be found easily enough on the internetz. I promise to do only good with the millions I make from your good fortune. "
   licenseUrl = ""
 
  # Social icons
