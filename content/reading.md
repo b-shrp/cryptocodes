@@ -6,7 +6,7 @@ aliases = ["environment", "eco", "socialjustice"]
 author = "CryptoCodes"
 +++
 # Crypto the Good: Further Reading #
-Here's some links to things I think we should think about and maybe aren't so clear yet.
+Things I think we should think about and maybe aren't so clear yet.
 
 ## The Links ##
 
