@@ -12,6 +12,7 @@ Things I think we should think about and maybe aren't so clear yet.
 
 ### Progressive Minds ###
 - https://the-crypto-syllabus.com/
+- https://theblockchainsocialist.com/
 - https://www.platformer.news/p/three-things-web3-should-fix-in-2022
 - https://www.youtube.com/watch?v=YQ_xWvX1n9g
 
