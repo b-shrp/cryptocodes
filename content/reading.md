@@ -29,6 +29,7 @@ Things I think we should think about and maybe aren't so clear yet.
 - https://beincrypto.com/blockchain-voting-will-be-coming-to-an-election-near-you-and-soon/
 - https://decrypt.co/93567/colorado-governor-crypto-polis-president
 - https://cardano.ideascale.com/
+- https://www.wired.com/story/colorado-jared-polis-blockchain/
 
 ### Global Shifts ###
 - https://www.wired.com/story/crypto-remittances-cuba/
