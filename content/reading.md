@@ -25,6 +25,7 @@ Things I think we should think about and maybe aren't so clear yet.
 - https://bitcoinmagazine.com/business/food-chain-everbowl-to-let-employees-get-paid-in-bitcoin
 - https://www.frontiersin.org/articles/10.3389/fbloc.2021.624810/full
 - https://www.shareable.net/the-dao-of-decentralization-can-co-ops-thrive-on-the-blockchain/
+- https://www.democracyatwork.info/atc_blockchain_and_cryptocurrency
 
 ### Decentralized Democracy ###
 - https://beincrypto.com/blockchain-voting-will-be-coming-to-an-election-near-you-and-soon/
