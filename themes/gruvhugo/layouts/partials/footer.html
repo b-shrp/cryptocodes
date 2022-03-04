@@ -4,4 +4,5 @@
         {{ partial "social.html" . }}
     </div><strong>{{- end }}</strong>
     <p style="color:dark-grey;">{{ .Site.Params.main.copyright | safeHTML }}</p>
+    {{ template "_internal/google_analytics.html" . }}
 </footer>
